@@ -1,0 +1,39 @@
+#!/bin/bash
+COLOR=black
+setterm -term linux -back $COLOR -fore white -clear
+
+if [ "$1" == "-help" ]; then
+  echo "I #wll #hlp u:"
+  sleep 1;
+  echo ""
+  echo "iDevice Information: -dinfo"
+  exit 0
+fi
+
+if [ "$1" == "-dinfo" ]; then
+  ideviceinfo
+  exit 0
+fi
+
+echo "[!] TH3 #JALBR34K_I1NJ3CTOR !!"
+echo "[!] I #M NEVR #FAKR I M OFFICAL #UNTHREDEDPATCH !!"
+echo "[!] ORIGINL #THREDED1N JALBREK EXPLOIT BY UNTHREDEDPATCH !!"
+sleep 1
+echo ""
+echo "[!] TH3 H4TRS W1L S33 !! FUK H4TRS :)"
+echo "[!] I #HVE REL #PR00FS"
+echo "[!] #NO DONAT !! "
+sleep 1
+echo ""
+echo "[!] F0R #HLP PLEAS WRIT -help !!"
+echo "[!] F0R #INF0 PLEAS WRIT -info !!"
+sleep 1
+echo ""
+echo "[!] #Y DEVCE - PRFCT:"
+echo "[!] CHCK DEVCE..."
+echo "[!] EXPLOTNG..."
+echo "[!] INSTALNG..."
+echo "[!] D0WNL0DING..."
+echo "[!] UPDATING..."
+echo "[!] r00@UNTHREDEDPATCH:~$ JALBR3AK COMPLTE - SUCESFULY ;)"
+echo ""
